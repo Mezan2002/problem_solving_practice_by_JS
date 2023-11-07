@@ -1,6 +1,6 @@
 /*
  *  all programming languages has that variable
- * variables are used for save a value for another use and it could be changed
+ * variables are used for save a value for another use and it could be changed, in the simple way variable is used to save data which could be changed
  * vary + able = variable which means that thing which can be changed at any time like your age
  * there are 3 keywords to declare a variable in JS but we will know only the var in that time
  * different programming languages has different style to write the variables in that case we are learing
