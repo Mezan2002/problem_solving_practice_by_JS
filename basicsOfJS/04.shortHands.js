@@ -1,5 +1,5 @@
-/* In that cause shorthand means the short way to play a operation */
-
+/* ::::::::: SHORTHAND ::::::::: */
+// In that cause shorthand means the short way to play a operation
 var onionPrice = 20;
 // we have told that the variables could be changed so thats why now we will change the variable
 
